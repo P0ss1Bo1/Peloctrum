@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">845486100066</string>
+    <string name="package_name">com.oxigenoxide.catfishing</string>
+    <string name="leaderboard_highscores">CgkI4pyY180YEAIQAQ</string>
+</resources>

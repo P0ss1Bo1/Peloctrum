@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="connect_error">Connect Error</string>
+    <string name="app_name">Cat Fishing</string>
+</resources>
